@@ -6,6 +6,11 @@ Aplicação que consome uma API e retorna o endereço através de  um CEP fornec
 ![image](https://user-images.githubusercontent.com/10932478/170586386-68ba150e-117b-4f4a-9802-7b065d45f023.png)
 
 
+# Tecnologias Utilizadas
+- Python
+- Biblioteca Requests
+- API Via Cep
+
 # Requesitos
 - instalar a biblioteca 'requests' através do código '*pip install requests*'
 

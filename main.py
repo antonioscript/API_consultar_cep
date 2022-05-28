@@ -9,7 +9,7 @@ def index():
 		[sg.Input(key = '-CEP-', size=20, font=" Any 16")],
 		[sg.Button("Consultar", font="16"), sg.Button("Nova Consulta", font="16"), sg.Button("Sair", font="16")],
 		[sg.Text("")],
-		[sg.Text("logradouro     ", font="16"), sg.Input(size=(50), font=" Any 16", key="-OUT1-")],
+		[sg.Text("Logradouro     ", font="16"), sg.Input(size=(50), font=" Any 16", key="-OUT1-")],
 		[sg.Text("")],
 		[sg.Text("Complemento", font="16"), sg.Input(size=(50), font=" Any 16", key="-OUT2-")],
 		[sg.Text("")],
